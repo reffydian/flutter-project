@@ -1,4 +1,4 @@
-# Flutter Location Demo App
+# My Flutter First Project
 
 A simple Flutter app that displays a scenic location with interactive buttons and a list of other places using Card widgets.
 
