@@ -1,4 +1,4 @@
-# My Flutter First Project
+# My First Flutter Project
 
 A simple Flutter app that displays a scenic location with interactive buttons and a list of other places using Card widgets.
 
